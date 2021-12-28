@@ -9,6 +9,6 @@ Quintic nonlinearity, derive the differential equations, calculate the Jacobian 
 obtained with different parameter values through MATLAB simulations and pinpoint the points of Bifurcation.
 #
 ## Team Members
-  Jessica John Britto [20PH20014]
-  Pranay Pandey       [20PH20026]
-  Shreya Bhatt        [20PH20037]
+- Jessica John Britto [20PH20014]
+- Pranay Pandey       [20PH20026]
+- Shreya Bhatt        [20PH20037]
